@@ -19,6 +19,7 @@ experiment with cloudinary to upload image and use it in a simple way
 </li>
 <li>update the constants in constants.ts according to your cloudinary.com account</li>
 <li>images loaded can be referenced in img element by clicking on them on the cloudinary dashboard->Media library , right click on the image and choosing 'copy url'</li>
+<li>use the component UploadWidget</li>
 </ol>
 
 <h2>Reference</h2>
